@@ -5,6 +5,7 @@ export const StyledListContainer = styled.div`
   flex-direction: column;
   align-items: center;
   margin-top: 130px;
+  margin-bottom: 100px;
 `;
 
 export const StyledWrapper = styled.div`
